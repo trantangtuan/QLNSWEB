@@ -10,7 +10,8 @@
 - Chức năng xem cấu trúc công ty: Tại đây người dùng có thể xem tổ chức cây thư mục với các cấp từ công ty, chi nhánh đến phòng ban của công ty. 
 - Cập nhật thông tin:  Người dùng có thể xem thông tin cá nhân của mình và có thể tiến hành thay đổi theo ý muốn. Ngoài ra còn có các chức năng như xem lịch sử công tác, xem khen thưởng kỷ luật của mình và thông tin của bản thân trong công ty.
 - Chức năng gửi mail: Tại đây người dùng có thể gửi email đến cho người khác mà không cần đăng nhập vào gmail.
-Quản lý phòng ban: Trang này sẽ hiển thị tất cả danh sách phòng ban. Ngoài ra sẽ có các chức năng như tìm kiếm, hiển thị thông tin của trưởng phòng. Các chức năng cập nhật như thêm, sửa, xóa.
+- Quản lí chi nhánh: Trang này sẽ hiển thị tất cả danh sách chi nhánh. Ngoài ra sẽ có các chức năng như tìm kiếm, hiển thị thông tin của giám đốc chi nhánh. Các chức năng cập nhật như thêm, sửa, xóa tên chi nhánh, giám đốc chi nhánh.
+- Quản lý phòng ban: Trang này sẽ hiển thị tất cả danh sách phòng ban. Ngoài ra sẽ có các chức năng như tìm kiếm, hiển thị thông tin của trưởng phòng. Các chức năng cập nhật như thêm, sửa, xóa tên phòng ban, trưởng phòng.
 - Quản lý nhân viên: Trang này sẽ hiển thị tất cả thông tin của nhân viên. Ngoài ra còn có các chức năng như tìm kiếm và thêm nhân viên từ file excel. Đối với mỗi nhân viên có các tùy chọn như khen thưởng và kỷ luật.
 - Thống kê tiền lương: Trang này sẽ hiển thị danh sách nhân viên và thống kê số lương cơ bản và hệ số để tính toán số lương của một nhân viên. Ngoài ra còn có các chức năng khác như tìm kiếm, xuất file excel và tính tổng lương
 
